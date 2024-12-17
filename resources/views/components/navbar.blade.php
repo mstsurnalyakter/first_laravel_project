@@ -37,6 +37,7 @@
               <a  class="rounded-md bg-gray-900 px-3 py-2 text-sm font-medium text-white" aria-current="page" href="/">Home</a>
               <a  class="rounded-md px-3 py-2 text-sm font-medium text-gray-300 hover:bg-gray-700 hover:text-white" href="/service">Service</a>
               <a  class="rounded-md px-3 py-2 text-sm font-medium text-gray-300 hover:bg-gray-700 hover:text-white" href="/about">About</a>
+              <a href="/posts" class="rounded-md px-3 py-2 text-sm font-medium text-gray-300 hover:bg-gray-700 hover:text-white">Blog</a>
               <a href="/login" class="rounded-md px-3 py-2 text-sm font-medium text-gray-300 hover:bg-gray-700 hover:text-white">Login</a>
             </div>
           </div>
