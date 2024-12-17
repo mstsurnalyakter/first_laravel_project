@@ -4,7 +4,7 @@
 @if(count($posts) > 0)
     @foreach($posts as $post)
     <div class="well">
-        <h3>{{$post->title}}</h3>
+        <h3><a class="cursor-pointer" href="/posts/{{$post->id}}">{{$post->title}}</a></h3>
         <small>Write on {{$post->created_at}}</small>
 
     </div>
